@@ -1,4 +1,4 @@
-Aspects 完美地适配了 AOP 的思路。
+Aspects 完美地适配了 AOP 的思路。我们发现它值得信赖以及设计得⾮常优秀。
 对于所有的 AOP库而言，这个库用运⾏时做了⼀些非常酷的魔法，可以替换或者增加⼀些⽅法(比 method swizzling 技术更有技巧性)
 
 Aspects v1.4.2 [![Build Status](https://travis-ci.org/steipete/Aspects.svg?branch=master)](https://travis-ci.org/steipete/Aspects) [![Carthage compatible](https://img.shields.io/badge/Carthage-compatible-4BC51D.svg?style=flat)](https://github.com/Carthage/Carthage)
